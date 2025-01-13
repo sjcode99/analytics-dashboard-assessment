@@ -1,4 +1,4 @@
-# MapUp - Analytics Dashboard Assessment
+# Analytics Dashboard
 
 
 ## 🚀 Live Demo
