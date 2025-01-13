@@ -7,7 +7,7 @@ export const TabButton = ({ label, icon: Icon, isActive, onClick }) => (
       className={`flex items-center px-4 py-2 rounded-lg transition-colors duration-200 
         ${isActive 
           ? "bg-emerald-100 text-emerald-800 shadow-sm" 
-          : "hover:bg-blue-50 text-gray-600"
+          : "hover:bg-green-100 text-gray-600"
         }`}
     >
       <Icon className="w-4 h-4 mr-2" />

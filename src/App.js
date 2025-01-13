@@ -4,6 +4,7 @@ import { parseCSVData, processCSVData } from "./component/utils/dataProcessing";
 import { Header } from "./component/Header";
 import { TabNavigation } from "./component/TabNavigation";
 import { DashboardContent } from "./DashboardContent";
+import "./App.css";
 
 export default function App() {
   const [processedData, setProcessedData] = useState(null);
